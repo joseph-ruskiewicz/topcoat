@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.12.2](https://github.com/tokio-rs/topcoat/compare/v0.12.1...v0.12.2) - 2026-11-11
+
+### Added
+
+- *(cookie)* make `CookieStore.remove()` return the value ([#606](https://github.com/tokio-rs/topcoat/pull/606))
+
+### Other
+
+- update Cargo.lock dependencies
+
 ## [0.12.1](https://github.com/tokio-rs/topcoat/compare/v0.12.0...v0.12.1) - 2026-11-10
 
 ### Added
